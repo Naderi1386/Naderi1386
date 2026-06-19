@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Mohammad Hosein Naderi
 
 I am a Junior Frontend Developer dedicated to pushing the boundaries of web experiences. I don't just build layouts; I focus on engineering highly performant, fluid, and premium software.
 
