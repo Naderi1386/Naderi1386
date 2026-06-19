@@ -6,12 +6,12 @@ I have a relentless passion for continuous learning—constantly diving into new
 
 ---
 
-### 🎯 My Core Focus Areas
+### 🎯 My Core Coding Principles
 
-*   💎 **High-Fidelity UI/UX & Motion:** Obsessed with sub-0.2s micro-interactions, clean design tokens, and smooth, hardware-accelerated animations that look flawless on any screen.
-*   ⚡ **Local-First & Offline Architectures:** Building robust client-side ecosystems using IndexedDB/Dexie.js to ensure data autonomy, 100% privacy, and instant local state hydration.
-*   ⚙️ **Performance Engineering:** Optimizing render cycles and leveraging multi-threading (Web Workers) to keep heavy processes out of the main thread and maintain a strict 60fps rendering budget.
-*   🔒 **Security-Minded Development:** Writing highly secure, robust, and strictly typed configurations to prevent runtime issues and maintain clean architectural boundaries.
+*   ✨ **Clean & Maintainable Code:** Prioritizing high readability, strict naming conventions, and self-documenting code structures that make the codebase easy to scale and a joy for teams to work on.
+*   🏗️ **Flexible & Modular Architecture:** Designing robust software foundations and decoupled infrastructure layers, ensuring the code is highly adaptable to changing product requirements.
+*   🚀 **Performance-Driven Logic:** Constantly optimizing render cycles and browser capabilities to ensure the software runs with maximum efficiency and minimum footprint.
+*   🛡️ **Strict Type Safety & Reliability:** Enforcing rigid configurations to eliminate runtime bugs before they happen and maintaining clean architectural boundaries for maximum stability.
 
 ---
 
